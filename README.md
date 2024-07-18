@@ -11,9 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelmlg&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+[![Top Langs](https://readme-stats-michel.vercel.app/api/top-langs/?username=michelmlg&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
