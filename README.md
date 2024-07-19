@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelmlg&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://readme-stats-michel.vercel.app/api/top-langs/?username=michelmlg&layout=donut&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats-michel.vercel.app/api/top-langs/?username=michelmlg&layout=donut&theme=vue-dark&exclude_repo=readme-stats-anuraghazra,michelmlg.github.io)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ![Top Langs](https://readme-stats-michel.vercel.app/api/top-langs/?username=michelmlg&exclude_repo=readme-stats-anuraghazra,michelmlg.github.io&layout=donut&theme=vue-dark)
-
+[![Top Langs](https://readme-stats-michel.vercel.app/api/top-langs/?username=michelmlg&layout=donut&theme=vue-dark&exclude_repo=readme-stats-anuraghazra,michelmlg.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
