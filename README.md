@@ -1,6 +1,6 @@
 # 💡 Michel Lisboa
 
-Bem-vindo ao meu perfil! Tenho interesse em desenvolvimento web e outras tecnologias que me interessem.
+Welcome to my profile! I'm interested in web development and other technologies that catch my attention.
 <div>
 <a href="https://www.linkedin.com/in/michellisboa2022/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
