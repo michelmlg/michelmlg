@@ -13,7 +13,7 @@ Welcome to my profile! I'm interested in web development and other technologies 
 
 <div align="center">
   <img height="160em" src="https://readme-stats-anuraghazra-git-main-michels-projects-ac73c010.vercel.app/api?username=michelmlg&show_icons=true&theme=vue-dark"/>
-  <img height="160em" src="https://readme-stats-michel.vercel.app/api/top-langs/?username=michelmlg&layout=donut&theme=vue-dark&exclude_repo=readme-stats-anuraghazra,michelmlg.github.io"/>
+  <img height="160em" src="https://readme-stats-anuraghazra-git-main-michels-projects-ac73c010.vercel.app/api/top-langs/?username=michelmlg&layout=donut&theme=vue-dark&exclude_repo=readme-stats-anuraghazra,michelmlg.github.io"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=michelmlg&color=273849&style=flat" target="_blank">
